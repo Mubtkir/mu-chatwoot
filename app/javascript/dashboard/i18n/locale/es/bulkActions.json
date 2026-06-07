@@ -1,0 +1,46 @@
+{
+  "BULK_ACTION": {
+    "CONVERSATIONS_SELECTED": "{conversationCount} conversaciones seleccionadas",
+    "NONE": "Ninguna",
+    "CLEAR_SELECTION": "Limpiar",
+    "ASSIGN_AGENT_CONFIRMATION_LABEL": "Are you sure you want to assign {n} conversation to {agentName}? | Are you sure you want to assign {n} conversations to {agentName}?",
+    "UNASSIGN_AGENT_CONFIRMATION_LABEL": "Are you sure you want to unassign {n} conversation? | Are you sure you want to unassign {n} conversations?",
+    "YES": "Si",
+    "CANCEL": "Cancelar",
+    "SEARCH_INPUT_PLACEHOLDER": "Buscar",
+    "ASSIGN_AGENT_TOOLTIP": "Asignar un agente",
+    "ASSIGN_TEAM_TOOLTIP": "Asignar equipo",
+    "ASSIGN_SUCCESFUL": "Conversaciones asignadas con éxito.",
+    "ASSIGN_FAILED": "Error al asignar conversaciones, inténtelo de nuevo.",
+    "RESOLVE_SUCCESFUL": "Conversaciones resueltas con éxito.",
+    "RESOLVE_FAILED": "Error al resolver las conversaciones, inténtelo de nuevo.",
+    "ALL_CONVERSATIONS_SELECTED_ALERT": "Las conversaciones visibles en esta página sólo están seleccionadas.",
+    "UPDATE": {
+      "CHANGE_STATUS": "Cambiar estado",
+      "SNOOZE_UNTIL": "Posponer",
+      "UPDATE_SUCCESFUL": "El estado de la conversación se actualizó con éxito.",
+      "UPDATE_FAILED": "No se han podido actualizar las conversaciones. Inténtalo de nuevo."
+    },
+    "RESOLVE": {
+      "ALL_MISSING_ATTRIBUTES": "No se pueden resolver las conversaciones debido a la falta de atributos requeridos",
+      "PARTIAL_SUCCESS": "Algunas conversaciones requieren atributos obligatorios antes de resolverse y se omitieron"
+    },
+    "LABELS": {
+      "ASSIGN_LABELS": "Asignar etiqueta",
+      "REMOVE_LABELS": "Remove labels",
+      "ASSIGN_SELECTED_LABELS": "Asignar etiquetas seleccionadas",
+      "REMOVE_SELECTED_LABELS": "Remove selected labels",
+      "ASSIGN_SUCCESFUL": "Etiquetas asignadas correctamente.",
+      "ASSIGN_FAILED": "Error al asignar etiquetas, inténtalo de nuevo.",
+      "REMOVE_SUCCESFUL": "Labels removed successfully.",
+      "REMOVE_FAILED": "Failed to remove labels. Please try again."
+    },
+    "TEAMS": {
+      "NONE": "Ninguna",
+      "ASSIGN_TEAM_CONFIRMATION_LABEL": "Are you sure you want to assign {n} conversation to {teamName}? | Are you sure you want to assign {n} conversations to {teamName}?",
+      "UNASSIGN_TEAM_CONFIRMATION_LABEL": "Are you sure you want to unassign {n} conversation? | Are you sure you want to unassign {n} conversations?",
+      "ASSIGN_SUCCESFUL": "Equipos asignados correctamente.",
+      "ASSIGN_FAILED": "Error al asignar equipo, inténtelo de nuevo."
+    }
+  }
+}
